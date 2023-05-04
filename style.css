@@ -11,6 +11,9 @@
 .cell {
     border: 1px solid black;
     text-align: center;
+    display: grid;
+    grid-template-rows: 3.5rem repeat(4, 1.5rem);
+    position: relative;
 }
 
 .cell:nth-child(n + 7) {
@@ -23,11 +26,14 @@
     vertical-align: baseline;
 }
 
+.title {
+    font-weight: bold;
+    margin: 0;
+}
 
 .teacher,
 .room,
-.textbook,
-.moodle {
+.textbook {
     margin: 0;
     overflow-x: hidden;
     white-space: nowrap;
@@ -35,7 +41,9 @@
     white-space: nowrap;
 }
 
-.title {
-    font-weight: bold;
-    margin: 0;
+.link {
+    color: blue;
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
 }
