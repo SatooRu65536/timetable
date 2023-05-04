@@ -1,0 +1,144 @@
+{
+  "default": {
+    "color": {
+      "title": "black",
+      "teacher": "blue",
+      "room": "black",
+      "textbook": "black",
+      "link": "black"
+    },
+    "bgcolor": "#eeeeee"
+  },
+  "mon": [
+    {
+      "title": "コンピュータリテラシ",
+      "teacher": ["内藤 克浩"],
+      "room": ["11-101"],
+      "textbook": ["MacOS Venture"],
+      "link": "https://cms.aitech.ac.jp/course/view.php?id=72",
+      "color": {
+        "title": "black",
+        "teacher": "black",
+        "room": "black",
+        "textbook": "black",
+        "link": "#ff0000"
+      },
+      "bgcolor": "#eeeeee"
+    },
+    {
+      "title": "キャリアデザイン",
+      "teacher": ["玉森 聡"],
+      "room": ["G2110", "14"],
+      "textbook": [],
+      "link": "https://satooru.me"
+    },
+    {
+      "title": "情報社会及び情報倫理",
+      "teacher": ["中村 栄治"],
+      "room": ["G2110"],
+      "textbook": ["コピペと言われないレポート", "学生時代に学びたい情報倫理"],
+      "link": "https://satooru.me"
+    }
+  ],
+  "tue": [
+    {},
+    {
+      "title": "コミュニカティブイングリッシュC",
+      "teacher": ["太田 晶子"],
+      "room": ["G3302"],
+      "textbook": [""],
+      "link": "https://teams.microsoft.com/l/channel/19%3a35090bc540e7499db9e72ec779698b34%40thread.tacv2/03%2520%25EF%25BC%2595%25E6%259C%2588%25EF%25BC%2592%25E6%2597%25A5?groupId=dc1ef1ef-bee0-4c7b-b7b7-7f2e0cfc7627&tenantId=1dd4d0da-8011-41fc-889e-d7ee3fec9eb6",
+      "linktxt": "Teams"
+    },
+    {
+      "title": "線形代数Ⅰ",
+      "teacher": ["伊藤 健"],
+      "room": ["G2208"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    },
+    {
+      "title": "コミュニカティブイングリッシュA",
+      "teacher": ["ロバート クレイトン"],
+      "room": ["G3503"],
+      "textbook": ["変なテキスト"],
+      "link": "https://satooru.me"
+    }
+  ],
+  "wed": [
+    {
+      "title": "コンピュータ概論",
+      "teacher": ["小野木 克明"],
+      "room": ["1-502"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    },
+    {
+      "title": "情報数学1",
+      "teacher": ["中村 栄治"],
+      "room": ["1-502"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    }
+  ],
+  "thu": [
+    {
+      "title": "プログラミング及び演習1",
+      "teacher": ["河辺 義信", "梶 克彦"],
+      "room": ["1-502"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    },
+    {
+      "title": "プログラミング及び演習1",
+      "teacher": ["河辺 義信", "梶 克彦"],
+      "room": ["1-502"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    },
+    {
+      "title": "データサイエンス基礎数理",
+      "teacher": ["岩田 英人"],
+      "room": ["G2209"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    },
+    {
+      "title": "微分積分1",
+      "teacher": ["真島 一成"],
+      "room": ["G2311"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    }
+  ],
+  "fri": [
+    {
+      "title": "科学技術と自然と人間",
+      "teacher": ["海上 智昭"],
+      "room": ["G2311"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    },
+    {
+      "title": "論理回路",
+      "teacher": ["河辺 義信"],
+      "room": ["G2210"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    },
+    {
+      "title": "中国語A",
+      "teacher": ["程 凱"],
+      "room": ["G2408"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    },
+    {
+      "title": "健康・スポーツ科学実習1",
+      "teacher": ["中野"],
+      "room": ["鉀徳館 南体育館"],
+      "textbook": [""],
+      "link": "https://satooru.me"
+    }
+  ]
+}
