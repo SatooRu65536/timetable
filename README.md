@@ -1,5 +1,5 @@
 # 時間割
-時間割です
+[時間割](https://satooru65536.github.io/timetable/) です
 
 # 使い方
 `index.html` で時間割を確認できます
